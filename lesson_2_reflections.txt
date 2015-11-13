@@ -42,3 +42,16 @@ in the diagram the way we do?
 There is a new commit of the merge. All the parents of both branches are
 accessible from this new commit. We represent it like that because it shows
 what parents are accessible from the commit.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+Pros:
+- save time by not having to do manual diffs every time and comparing
+each and every file
+- the more files the more time saved.
+
+Cons:
+- you have to go and fix the merges and delete the lines when there is a
+conflict
+- everything is merged and you may want to exclude some things.
