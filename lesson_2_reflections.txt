@@ -14,3 +14,9 @@ The staging area is for files that you want to track to be later commited to
 the repository. The working directory contains all files in the currently
 checked out version of the repository. The repository contains all versions.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You can simply stage only the files related to one logical change and then
+commit only those changes, as opposed to all changes in the working
+directory.
