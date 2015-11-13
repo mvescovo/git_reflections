@@ -37,7 +37,11 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    By using some other version control system such as dropbox and using
+    different folders to organise things.
+
+    It would be easier to implement without understanding git. It would be
+    harder to maintain such as merging files and to compare logical changes.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
