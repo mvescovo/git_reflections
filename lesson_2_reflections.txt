@@ -35,3 +35,10 @@ How do the diagrams help you visualise the branch structure?
 
 By allowing me to see where they veer off and also any unreachable commits.
 They allow me to easily see the parent of each commit.
+
+What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+
+There is a new commit of the merge. All the parents of both branches are
+accessible from this new commit. We represent it like that because it shows
+what parents are accessible from the commit.
