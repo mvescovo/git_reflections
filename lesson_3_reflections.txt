@@ -46,4 +46,10 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want to have other people collaborate on those changes before
+    comitting to the master branch (in addition to previously mentioned
+    benefits).
+
+    Using the master branch only is far easier as there's less work involved,
+    but it doesn't allow for other people to first review the changes; no
+    collaboration.
