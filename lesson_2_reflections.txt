@@ -30,3 +30,8 @@ test a feature, when you want to fix a bug separately from the master.
 Branches help by separating the master from the other branches. They can each
 apply their own commits without effecting each other. They can then later be
 merged if desired.
+
+How do the diagrams help you visualise the branch structure?
+
+By allowing me to see where they veer off and also any unreachable commits.
+They allow me to easily see the parent of each commit.
